@@ -1,0 +1,136 @@
+.top {
+  background-color: #EAF6F6;
+  margin-top: 0;
+  margin-left: 0;
+  padding-top: 60px;
+  margin-right: 0;
+
+}
+h1{
+  margin: 50px auto 0 auto;
+  padding-top: 60px;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+  line-height: 2;
+
+
+
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.middle-container{
+  padding-top: 50px;
+}
+
+.span{
+  text-decoration: underline;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 500px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 650px;
+}
+.my{
+      max-width: 15%;
+}
+.chillies{
+  max-width: 10%;
+  float: left;
+  padding-right: 40px;
+}
+.chillies2{
+  max-width: 10%;
+  float: right;
+  padding-right: 30px;
+  padding-bottom: 50px;
+
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-top: 30px;
+  text-align: center;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color:#11999E;
+}
+.skillhr{
+  width: 0;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.hrtag{
+  margin-top: 20px;
+  border-style: dotted;
+  width: 5%;
+  border-top: 0;
+  text-align: center;
+  border-width: 10px;
+  color: grey;
+  position: static;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.ptag{
+  color: #40514E;
+  padding-bottom: 50px;
+}
+.contact-me{
+  padding: 60px;
+}
+.ptn{
+  padding-bottom: 50px;
+}
+.bottom-container{
+  padding: 60px;
+  background-color: #66BFBF;
+}
+.footer-link{
+  padding: 30px 30px 50px 30px;
+  color: #11999E;
+  text-decoration: none;
+}
